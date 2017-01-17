@@ -1,0 +1,47 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #336;
+	font-size: 62.5%;
+}
+
+header,
+main,
+article,
+footer {
+	background-color: #889;
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+        text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+p.warning {
+	color: #800
+}
+
+#explainingthejoke {
+	background-color: darkred;
+	color: #FFF
+}
+
+footer {
+	text-align: center;
+	font-style: italic;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
